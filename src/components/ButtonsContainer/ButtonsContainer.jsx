@@ -14,7 +14,7 @@ export function ButtonsContainer () {
         <Containerbuttons>
             <Slogan label="Advogada on-line">
             </Slogan>
-        <Button label="Facebook" className="button" aref={"https://https://www.facebook.com/barbara.lima.71868964/"}>
+        <Button label="Facebook" className="button" aref={"https://www.facebook.com/barbara.lima.71868964/"}>
             <RiFacebookFill/>
         </Button>
 
@@ -34,9 +34,9 @@ export function ButtonsContainer () {
         <Button label="Telefone" aref={"https://api.whatsapp.com/send?phone=5521986917487&text=Poderia%20me%20ajudar%20com%20minha%20causa%3F"}>
             <RiPhoneFill/>
         </Button>   
-
+            
         </Containerbuttons>
-
+        
     )
   }
 
