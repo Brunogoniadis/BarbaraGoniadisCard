@@ -1,6 +1,6 @@
 # Bárbara Goniadis Card
 
-Cartão de contato digital feito para realizar testes praticos com components e Styled Components
+Cartão de contato digital feito para realizar testes praticos com components e Styled Components em Reactjs
 
 
 
