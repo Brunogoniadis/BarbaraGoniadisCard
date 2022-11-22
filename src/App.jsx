@@ -15,10 +15,12 @@ function App() {
       <GlobalStyle></GlobalStyle>
         <ProfilePic></ProfilePic>
         <ButtonsContainer/>
+        
       </ContainerPrincipal>
 
     </Background>
 
+    
   )
 }
 

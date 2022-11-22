@@ -11,20 +11,18 @@ export const Containerbutton = styled.button`
     align-items: center;
     padding-right: 5%;
     padding-left: 5%;
-    border: 2px solid;
-    border-radius: 50px;
+    border: 0px solid;
+    border-radius: 10px;
     border-color: var(--color-border);
 
     transition: ease-in 0.05s;
-    background-color: #102542;
+    background-color: #501a28;
     cursor: pointer;
 
 
-    @media (min-width: 390px) {
-        width: 400px;
-      }
+
     @media (min-width: 375px) {
-        width: 400px;
+        width: 350px;
       }
     @media (min-width: 420px) {
         width: 400px;

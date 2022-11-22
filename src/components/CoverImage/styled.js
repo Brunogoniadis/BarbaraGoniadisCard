@@ -2,7 +2,9 @@ import styled from "styled-components";
 
 export const Cover = styled.div`
     
-    height: 200%;
+    height: auto;
+    width: 100%;
+
     border-color: var(--color-border);
     border-radius: var(--radius-border);
     display: flex;
@@ -10,11 +12,12 @@ export const Cover = styled.div`
     justify-content: center;
     
     img{
-        position: absolute;
-        width: 490px;
         border-radius: var(--radius-border);
 
-      
+        width: 340px;
+
+        
+
     }
 
 

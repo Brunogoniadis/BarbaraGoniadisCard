@@ -29,6 +29,10 @@ export const Perfil = styled.div`
     @media (min-width: 920px) {
         top: 10%;
     }
+    @media (min-width: 375px) {
+        position: absolute;
+        margin-top: -60px;
+      }
 
 
     img{
@@ -37,5 +41,6 @@ export const Perfil = styled.div`
         border-radius: var(--radius-border);
         border-radius: 50%;
 
+        
     }
 `

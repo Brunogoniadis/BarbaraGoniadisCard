@@ -15,18 +15,24 @@ export default createGlobalStyle`
   }
   * h1{
     font-size: 20px;
-    color: #fff;
+    color: #501a28;
     font-family: 'Poppins';
     margin-bottom: -5px;
   }
   * h2, h3{
      color: #fff;
   }
+  * contactFonts{
+    font-size: 10px;
+    font-family: 'Poppins';
+    font-weight: bold;
+  }
+
   *bottom{
     cursor: pointer;
   }
   body{
-    background: linear-gradient(0deg, #421034 0%, #8A296F 50.31%, #421034 100%);
+    background: #E2E2E2;
 
   }
 `
